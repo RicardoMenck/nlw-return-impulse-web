@@ -8,3 +8,8 @@ Esse projeto foi desenvolvido com a intenção de funionar como um Component Wid
 * Vite
 * TailWindCSS
 * ReactJS
+
+
+---
+
+Feito com ♥ by [Ricardo Menck](https://www.linkedin.com/in/ricardomenck/)
